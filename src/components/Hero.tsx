@@ -45,7 +45,7 @@ export function Hero() {
 
               {/* DOWNLOAD RESUME BUTTON */}
               <a
-                href="/Sumit_Mishra_Resume.pdfc:\Users\sumit\Downloads\rs sumit mishra.pdf"   // Place this file in public folder
+                href="https://drive.google.com/uc?export=download&id=1H6rMIO1tnRo3QM66hzz28bDu1hxZenws"   // Place this file in public folder
                 download
                 className="border-2 border-gray-900 text-gray-900 px-6 py-3 rounded-lg hover:bg-gray-900 hover:text-white transition-colors flex items-center gap-2"
               >
