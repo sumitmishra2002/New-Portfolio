@@ -48,7 +48,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-gray-900">Location</p>
-                      <p className="text-gray-600">India</p>
+                      <p className="text-gray-600">Lucknow,Uttar Pradesh,India</p>
                     </div>
                   </div>
                 </div>
